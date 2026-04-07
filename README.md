@@ -1,5 +1,7 @@
 # Global Financial Performance Dashboard
 
+![Global Financial Dashboard Preview](financial_detailpage.PNG)
+
 This Power BI dashboard offers an interactive and comprehensive view of global financial performance across multiple dimensions including year, country, segment, and product.
 
 ## Features
